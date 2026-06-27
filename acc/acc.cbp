@@ -39,11 +39,15 @@
 		<Unit filename="include/init.h" />
 		<Unit filename="include/object.h" />
 		<Unit filename="include/technical.h" />
+		<Unit filename="include/text.h" />
+		<Unit filename="include/tile.h" />
 		<Unit filename="include/window.h" />
 		<Unit filename="src/game.cpp" />
 		<Unit filename="src/main.cpp" />
 		<Unit filename="src/object.cpp" />
 		<Unit filename="src/technical.cpp" />
+		<Unit filename="src/text.cpp" />
+		<Unit filename="src/tile.cpp" />
 		<Unit filename="src/window.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

@@ -14,9 +14,9 @@ class Object
         void Setrender_square(SDL_FRect val) { render_square = val; }
 
     protected:
-
-    private:
         SDL_FRect render_square;
+    private:
+
 };
 
 #endif // OBJECT_H

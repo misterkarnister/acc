@@ -6,7 +6,8 @@ enum Error_kind
 {
     WINDOW =        1,
     RENDERER =      2,
-    TEXTURE =       3
+    FONT =          3,
+    TEXT =          4
 
 };
 
